@@ -1,0 +1,10 @@
+{
+	"origin": ["#verb# #adjectives# #colors# #nouns#"],
+	"verb":["look at the", "see the", "what a"],
+	"colors" : ["#shade# blue", "#shade# green", "black", "#shade# red", "invisible"],
+	"adjectives":["#adverbs# beautiful", "#adverbs# boring", "#adverbs# facinating", "new", "dead", "#adverbs# scary"],
+	"adverbs": ["shockingly", "fortunately", "maddeningly", "terribly", "happily"],
+	"nouns":["sky", "landscape", "flower #items#", "bush", "forest"],
+	"items":["root", "petal", "stem"],
+	"shade":["bright", "dark", "light", "shiny", "transparent", "neon"]
+}
