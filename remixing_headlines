@@ -1,0 +1,18 @@
+//I broke up headlines about popular actors/actresses and remixed them into new headlines. Uses cheapbotsdonequick.com.
+
+
+{
+    "origin": ["#names# #verbs# #objects#. -- #newsoutlets#"],
+
+    "names": ["Jennifer Lawrence", "Leonardo DiCaprio", "Hugh Jackman", "Mila Kunis", "Ryan Reynolds", "Emma Watson"],
+
+    "verbs": ["started", "and #companions# watch", "stood #prepphrases# before", "played", "and #companions# pack on", "celebrates", "and #companions# team up for", "enjoys", "clap back at", "and #companions# talk", "fondly remembers", "dons", "addresses", "wore", "mounts", "sends", "hangs with", "writes", "and #companions# just had"],
+
+    "objects": ["their own production company", "ice hockey game", "#companions#'s lover #prepphrases#", "the PDA #prepphrases#", "44th birthday #prepphrases#", "casual outing #prepphrases#", "'heartless' #companions# tweets", "new movie", "creative genius #companions# #prepphrases#", "grey suit #prepphrases#", "wildfires #prepphrases#", "a slinky little black dress", "a raindeer #prepphrases#", "fans #prepphrases#", "#companions#", "open letter #prepphrases#", "a Harry Potter reunion"],
+
+    "prepphrases": ["for Sony", "at Rangers game", "in naked line up", "in style", "with girlfriend #companions#", "at the Late Show with #companions#", "in acceptance speech", "on Deadpool poster", "into a meltdown", "to 'passionate vivacious leader' #companions#"], 
+
+    "companions": ["Cooke Maroney", "Brad Pitt", "Trump", "Jason Reitman", "Stan Lee", "Stephen Colbert", "Tom Felton", "Savita Halappanavar"],
+
+    "newsoutlets": ["Daily Mail", "Variety", "NY Daily News", "People", "Metro UK", "Newsweek", "ABC News", "Vanity Fair", "In Style", "Hollywood Reporter", "Evening Standard"]
+}
